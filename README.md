@@ -2,7 +2,7 @@
 - 👀 I’m interested in guitar, blockchain, game, japan
 - 🌱 I’m currently learning blockchain and guitar
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me?
 
 <!---
 jaslin-W/jaslin-W is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
