@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaslin-W
-- 👀 I’m interested in guitar, blockchain, game
+- 👀 I’m interested in guitar, blockchain, game, japan
 - 🌱 I’m currently learning blockchain and guitar
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
